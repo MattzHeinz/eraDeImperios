@@ -1,0 +1,14 @@
+package eraDeImperio;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ArqueroTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
